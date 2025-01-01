@@ -32,3 +32,40 @@ The DLP policy applies to all sensitive information processed, stored, or transm
 
 ### Implementation Steps
 
+#### Initiate the Policy Creation Process
+Start by selecting a pre-defined template or crafting a custom policy based on organizational requirements.
+![purview dlp](purview_1.png)
+
+#### Select the Appropriate Policy Template
+Choose a template that aligns with your industry or regulatory needs. For this project, select the Financial template.
+Within the Financial template, choose the relevant regulatory standard. For example, select the PCI DSS framework to address payment card industry compliance requirements.
+![purview dlp](purview_2.png)
+
+#### Define Policy Name and Description
+Provide a clear, concise name and detailed description for the policy to ensure its purpose is easily understood by stakeholders.
+![purview dlp](purview_3.png)
+
+#### Assign Administrative Units
+Designate specific administrative units or groups responsible for managing the policy, ensuring appropriate accountability and oversight.
+![purview dlp](purview_4.png)
+
+#### Specify Applicable Locations
+Identify the geographic or organizational locations where the policy will be enforced to ensure compliance across the relevant domains.
+![purview dlp](purview_5.png)
+![purview dlp](purview_6.png)
+
+#### Configure Policy Settings
+Define the core settings of the policy, including the scope, triggers, and enforcement levels, to meet organizational objectives.
+![purview dlp](purview_7.png)
+
+#### Customize Advanced Data Loss Prevention (DLP) Rules
+Tailor advanced DLP rules to address specific data protection needs, ensuring sensitive data is safeguarded against unauthorized access or exposure.
+![purview dlp](purview_8.png)
+
+#### Modify Conditions and Actions
+Fine-tune the policy by adjusting conditions and actions, ensuring precise alignment with regulatory and business requirements.
+![purview dlp](purview_9.png)
+
+#### Run the Policy in Simulation Mode
+Test the policy in simulation mode to evaluate its effectiveness, identify potential issues, and refine configurations before full deployment.
+![purview dlp](purview_10.png)
